@@ -10,6 +10,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `axios, react-router-dom, redux, react-redux, node-sass, reduxJS toolkit`
 
+## Home Page
+
+![Alt text](./public/images/home.png "Home Page")
+
+## Detail Page
+
+![Alt text](./public/images/detail.png "Detail Page")
+
 ## Available Scripts
 
 In the project directory, you can run:
