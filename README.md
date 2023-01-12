@@ -10,6 +10,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Needed Packages for Project Development
+
+### `axios, react-router-dom, redux, react-redux, node-sass, reduxJS toolkit`
+
 ### `npm start`
 
 Runs the app in the development mode.\
