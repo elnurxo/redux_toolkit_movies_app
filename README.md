@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Demo Link (deployed in netlify)
 
-[DEMO VERSION OF PROJECT](https://reduxtoolkit-movieappbyelnurxo.netlify.app/)
+[CLICK THIS LINK FOR PROJECT DEMO](https://reduxtoolkit-movieappbyelnurxo.netlify.app/)
 
 ## API link
 
