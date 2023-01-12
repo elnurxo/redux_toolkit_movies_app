@@ -1,0 +1,1 @@
+NEEDED PACKAGES - axios, react-router-dom, redux, react-redux, node-sass, reduxJS toolkit
