@@ -6,13 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## `https://www.omdbapi.com`
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ## Needed Packages for Project Development
 
 ### `axios, react-router-dom, redux, react-redux, node-sass, reduxJS toolkit`
+
+## Available Scripts
+
+In the project directory, you can run:
 
 ### `npm start`
 
