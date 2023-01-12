@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Demo Link (deployed in netlify)
+
+## `https://reduxtoolkit-movieappbyelnurxo.netlify.app/`
+
+
 ## API link
 
 ## `https://www.omdbapi.com`
