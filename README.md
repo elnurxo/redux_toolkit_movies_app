@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## `https://www.omdbapi.com`
 
-### >>*First you have to get an API key by using your email*
+##### *First you have to get an API key by using your email*
 
 ## Needed Packages for Project Development
 
